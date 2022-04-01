@@ -1,0 +1,10 @@
+- The toArray method doesnt work.
+2) add method (N)
+add(position) (N)
+remove (N)
+clear (1)
+replace (N)
+getEntry (N)
+toArray (N)
+contains (N)
+getLength (1)
